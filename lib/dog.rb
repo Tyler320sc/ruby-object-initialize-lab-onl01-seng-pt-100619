@@ -4,10 +4,9 @@ class Person
   end  
   
   def name 
-    @name = "Beyonce" 
+    @name 
   end 
   
   
-  
+end   
   name = Person.new
-end 
