@@ -9,5 +9,5 @@ class Person
   
   
   
-  # beyonce = Person.new("Beyonce")
+  name = Person.new("Beyonce")
 end 
