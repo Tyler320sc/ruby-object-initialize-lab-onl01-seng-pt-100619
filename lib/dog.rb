@@ -1,3 +1,9 @@
 class Person
-  beyonce = Person.new("Beyonce")
+  @name = name 
+  
+  
+  
+  
+  
+  # beyonce = Person.new("Beyonce")
 end 
